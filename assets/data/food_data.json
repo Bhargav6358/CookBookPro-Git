@@ -1,0 +1,356 @@
+[
+  {
+    "image" : "assets/img/ButterChicken.jpg",
+    "name": "Butter Chicken",
+    "recipe": "1. In a bowl, combine yogurt, lemon juice, and spices to make the marinade.\n2. Add chicken pieces to the marinade, cover, and refrigerate for at least 3 hours or overnight.\n3. Cook the chicken in a skillet until browned and cooked through, then set aside.\n4. In the same skillet, melt butter and sauté onions until golden.\n5. Add tomatoes, ginger, garlic, and spices, cooking until the tomatoes soften.\n6. Stir in cream and simmer the sauce until thickened.\n7. Return the chicken to the skillet, coating it with the sauce.\n8. Serve hot with naan or rice.",
+    "cooking_time": "45 Mins",
+    "ingredients": [
+      "500g chicken, cut into pieces",
+      "1 cup yogurt",
+      "2 tbsp lemon juice",
+      "2 tbsp butter",
+      "1 onion, finely chopped",
+      "2 tomatoes, pureed",
+      "1 tsp ginger paste",
+      "1 tsp garlic paste",
+      "1 tsp garam masala",
+      "1 tsp chili powder",
+      "1 cup cream",
+      "Salt to taste"
+    ],
+    "category": "Indian",
+    "rating": 4.7,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/SpaghettiCarbonara.jpg",
+    "name": "Spaghetti Carbonara",
+    "recipe": "1. Cook the spaghetti in salted boiling water until al dente.\n2. Meanwhile, fry the bacon in a skillet until crispy.\n3. In a bowl, whisk together eggs and grated Parmesan cheese.\n4. Drain the spaghetti and return it to the pot, off the heat.\n5. Quickly add the egg mixture and bacon to the spaghetti, stirring vigorously to create a creamy sauce (the heat from the pasta will cook the eggs).\n6. Season with black pepper and serve immediately.",
+    "cooking_time": "20 Mins",
+    "ingredients": [
+      "200g spaghetti",
+      "100g bacon, diced",
+      "2 eggs",
+      "50g Parmesan cheese, grated",
+      "Black pepper to taste",
+      "Salt to taste"
+    ],
+    "category": "Italian",
+    "rating": 4.5,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/MargheritaPizza.jpg",
+    "name": "Margherita Pizza",
+    "recipe": "1. Preheat your oven to the highest setting and place a pizza stone inside.\n2. Roll out the pizza dough on a floured surface to your desired thickness.\n3. Spread tomato sauce evenly over the dough, leaving a small border around the edges.\n4. Tear mozzarella into pieces and scatter over the sauce.\n5. Add fresh basil leaves and a drizzle of olive oil.\n6. Carefully transfer the pizza to the preheated pizza stone and bake until the crust is golden and the cheese is bubbly and slightly browned.\n7. Serve immediately, garnished with extra basil if desired.",
+    "cooking_time": "15 Mins",
+    "ingredients": [
+      "1 pizza dough",
+      "1/2 cup tomato sauce",
+      "200g fresh mozzarella cheese",
+      "Fresh basil leaves",
+      "Olive oil for drizzling",
+      "Salt to taste"
+    ],
+    "category": "Italian",
+    "rating": 4.8,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/SushiRolls.jpg",
+    "name": "Sushi Rolls",
+    "recipe": "1. Rinse the sushi rice under cold water until the water runs clear.\n2. Cook the rice according to the package instructions, then let it cool slightly.\n3. Place a bamboo sushi mat on a clean surface and cover it with plastic wrap.\n4. Lay a sheet of seaweed on the mat, shiny side down.\n5. Spread a thin layer of rice over the seaweed, leaving a border at the top.\n6. Arrange slices of fish and vegetables along the bottom edge of the rice.\n7. Using the mat, roll the sushi tightly from the bottom, pressing firmly as you go.\n8. Cut the roll into pieces with a sharp knife and serve with soy sauce, wasabi, and pickled ginger.",
+    "cooking_time": "30 Mins",
+    "ingredients": [
+      "2 cups sushi rice",
+      "2 1/2 cups water",
+      "1/4 cup rice vinegar",
+      "1/2 tsp salt",
+      "2 tbsp sugar",
+      "Seaweed sheets",
+      "Fresh fish (salmon, tuna), sliced",
+      "Cucumber, julienned",
+      "Avocado, sliced",
+      "Soy sauce",
+      "Wasabi",
+      "Pickled ginger"
+    ],
+    "category": "Japanese",
+    "rating": 4.6,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/TacosalPastor.jpg",
+    "name": "Tacos al Pastor",
+    "recipe": "1. Marinate the pork in a mixture of pineapple juice, vinegar, chili powder, garlic, and spices for at least 4 hours.\n2. Preheat a grill or skillet over medium-high heat.\n3. Grill the marinated pork until cooked through and slightly charred, then slice thinly.\n4. Warm the tortillas on the grill or in a dry skillet.\n5. Assemble the tacos by placing the pork on the tortillas, topping with pineapple chunks, salsa, and cilantro.\n6. Serve with lime wedges and extra salsa on the side.",
+    "cooking_time": "40 Mins",
+    "ingredients": [
+      "500g pork shoulder, thinly sliced",
+      "1 cup pineapple juice",
+      "1/4 cup white vinegar",
+      "2 tbsp chili powder",
+      "2 cloves garlic, minced",
+      "1 tsp cumin",
+      "1 tsp oregano",
+      "Salt and pepper to taste",
+      "8 small corn tortillas",
+      "1 cup pineapple, diced",
+      "1/2 cup salsa",
+      "Fresh cilantro, chopped",
+      "Lime wedges"
+    ],
+    "category": "Mexican",
+    "rating": 4.9,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/PadThai.jpg",
+    "name": "Pad Thai",
+    "recipe": "1. Soak the rice noodles in warm water until soft, then drain.\n2. In a small bowl, mix together the tamarind paste, fish sauce, sugar, and lime juice to make the sauce.\n3. Heat oil in a wok or large skillet over medium-high heat.\n4. Add shrimp and tofu, cooking until shrimp are pink and tofu is golden.\n5. Push the shrimp and tofu to the side of the wok, then pour in the beaten eggs and scramble until just set.\n6. Add the noodles and sauce to the wok, tossing everything together until well coated.\n7. Stir in the bean sprouts and green onions, cooking for another minute.\n8. Serve hot, garnished with crushed peanuts and lime wedges.",
+    "cooking_time": "25 Mins",
+    "ingredients": [
+      "200g rice noodles",
+      "200g shrimp, peeled and deveined",
+      "100g tofu, cubed",
+      "2 eggs, beaten",
+      "1 cup bean sprouts",
+      "2 green onions, chopped",
+      "1/4 cup tamarind paste",
+      "3 tbsp fish sauce",
+      "2 tbsp sugar",
+      "2 tbsp lime juice",
+      "2 tbsp vegetable oil",
+      "1/4 cup crushed peanuts",
+      "Lime wedges"
+    ],
+    "category": "Thai",
+    "rating": 4.7,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/BeefBourguignon.jpg",
+    "name": "Beef Bourguignon",
+    "recipe": "1. Preheat your oven to 150°C (300°F).\n2. In a large Dutch oven, cook the bacon over medium heat until crispy, then remove and set aside.\n3. In the same pot, brown the beef in batches until all sides are seared, then remove and set aside.\n4. Add onions, carrots, and garlic to the pot, cooking until onions are translucent.\n5. Stir in the flour, then add the red wine, beef broth, tomato paste, thyme, and bay leaf, scraping up any browned bits from the bottom of the pot.\n6. Return the beef and bacon to the pot, then cover and place in the oven for 2-3 hours, until the beef is tender.\n7. In the last 30 minutes of cooking, add the mushrooms to the pot.\n8. Serve hot, garnished with fresh parsley.",
+    "cooking_time": "3 hours",
+    "ingredients": [
+      "1kg beef chuck, cut into cubes",
+      "150g bacon, diced",
+      "2 onions, chopped",
+      "3 carrots, sliced",
+      "3 cloves garlic, minced",
+      "2 tbsp flour",
+      "2 cups red wine",
+      "2 cups beef broth",
+      "1 tbsp tomato paste",
+      "1 tsp dried thyme",
+      "1 bay leaf",
+      "200g mushrooms, sliced",
+      "Salt and pepper to taste",
+      "Fresh parsley, chopped"
+    ],
+    "category": "French",
+    "rating": 4.8,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/Falafel.jpg",
+    "name": "Falafel",
+    "recipe": "1. In a food processor, combine chickpeas, onion, garlic, parsley, cilantro, cumin, coriander, salt, and baking powder.\n2. Process until the mixture is finely ground but not pureed.\n3. Transfer the mixture to a bowl, cover, and refrigerate for 1 hour.\n4. Form the mixture into small balls or patties.\n5. Heat oil in a deep skillet or fryer to 180°C (350°F).\n6. Fry the falafel in batches until golden brown and crispy, about 3-4 minutes per side.\n7. Drain on paper towels and serve hot with pita bread, tahini sauce, and salad.",
+    "cooking_time": "40 Mins",
+    "ingredients": [
+      "2 cups dried chickpeas, soaked overnight and drained",
+      "1 onion, chopped",
+      "3 cloves garlic, minced",
+      "1/4 cup fresh parsley, chopped",
+      "1/4 cup fresh cilantro, chopped",
+      "1 tsp cumin",
+      "1 tsp coriander",
+      "1 tsp salt",
+      "1 tsp baking powder",
+      "Vegetable oil for frying"
+    ],
+    "category": "Middle Eastern",
+    "rating": 4.6,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/ChickenTikkaMasala.jpg",
+    "name": "Chicken Tikka Masala",
+    "recipe": "1. In a bowl, combine yogurt, lemon juice, garlic, ginger, and spices for the marinade.\n2. Add chicken pieces to the marinade, cover, and refrigerate for at least 3 hours or overnight.\n3. Preheat a grill or broiler and cook the chicken until charred and cooked through, then set aside.\n4. In a large skillet, melt butter and sauté onions until golden.\n5. Add tomatoes, garlic, ginger, and spices, cooking until the tomatoes break down.\n6. Stir in cream and simmer until the sauce thickens.\n7. Add the grilled chicken to the sauce, coating well.\n8. Serve hot with rice or naan bread.",
+    "cooking_time": "50 Mins",
+    "ingredients": [
+      "500g chicken, cut into pieces",
+      "1 cup yogurt",
+      "2 tbsp lemon juice",
+      "2 cloves garlic, minced",
+      "1 tsp ginger paste",
+      "1 tsp garam masala",
+      "1 tsp turmeric",
+      "1 tsp chili powder",
+      "2 tbsp butter",
+      "1 onion, finely chopped",
+      "2 tomatoes, pureed",
+      "1 cup cream",
+      "Salt to taste"
+    ],
+    "category": "Indian",
+    "rating": 4.9,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/PastaPrimavera.jpg",
+    "name": "Pasta Primavera",
+    "recipe": "1. Cook the pasta in salted boiling water until al dente, then drain.\n2. In a large skillet, heat olive oil over medium heat.\n3. Add garlic and mixed vegetables, sautéing until tender.\n4. Toss the cooked pasta with the vegetables and olive oil.\n5. Season with salt, pepper, and a squeeze of lemon juice.\n6. Serve hot, garnished with grated Parmesan cheese and fresh basil.",
+    "cooking_time": "25 Mins",
+    "ingredients": [
+      "200g pasta",
+      "2 cups mixed vegetables (bell peppers, zucchini, cherry tomatoes, broccoli)",
+      "3 cloves garlic, minced",
+      "2 tbsp olive oil",
+      "1/2 lemon, juiced",
+      "Salt and pepper to taste",
+      "Grated Parmesan cheese",
+      "Fresh basil leaves"
+    ],
+    "category": "Italian",
+    "rating": 4.5,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/ChickenCaesarSalad.jpg",
+    "name": "Chicken Caesar Salad",
+    "recipe": "1. Grill the chicken breasts until fully cooked, then slice thinly.\n2. In a large bowl, toss the romaine lettuce with Caesar dressing until evenly coated.\n3. Add the sliced chicken, croutons, and Parmesan cheese, tossing to combine.\n4. Serve immediately, garnished with additional Parmesan cheese and cracked black pepper.",
+    "cooking_time": "20 Mins",
+    "ingredients": [
+      "2 chicken breasts",
+      "1 head romaine lettuce, chopped",
+      "1/2 cup Caesar dressing",
+      "1/2 cup croutons",
+      "1/4 cup grated Parmesan cheese",
+      "Cracked black pepper"
+    ],
+    "category": "American",
+    "rating": 4.7,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/MisoSoup.jpg",
+    "name": "Miso Soup",
+    "recipe": "1. In a pot, bring the dashi broth to a simmer.\n2. In a small bowl, dissolve the miso paste in a bit of the hot broth, then stir it back into the pot.\n3. Add the tofu, seaweed, and green onions to the pot, simmering until the tofu is heated through.\n4. Serve hot, garnished with additional green onions if desired.",
+    "cooking_time": "15 Mins",
+    "ingredients": [
+      "4 cups dashi broth",
+      "3 tbsp miso paste",
+      "100g tofu, cubed",
+      "1/4 cup seaweed, rehydrated",
+      "2 green onions, sliced"
+    ],
+    "category": "Japanese",
+    "rating": 4.5,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/PaneerTikka.jpg",
+    "name": "Paneer Tikka",
+    "recipe": "1. In a bowl, combine yogurt, spices, and lemon juice to make the marinade.\n2. Add paneer and vegetables to the marinade, tossing to coat. Refrigerate for at least 1 hour.\n3. Preheat a grill or broiler.\n4. Thread the paneer and vegetables onto skewers.\n5. Grill or broil the skewers until the paneer is golden and the vegetables are tender.\n6. Serve hot with chutney and lemon wedges.",
+    "cooking_time": "30 Mins",
+    "ingredients": [
+      "300g paneer, cubed",
+      "1 cup yogurt",
+      "1 tbsp lemon juice",
+      "1 tsp garam masala",
+      "1 tsp turmeric",
+      "1 tsp chili powder",
+      "1 bell pepper, cut into chunks",
+      "1 onion, cut into chunks",
+      "Salt to taste",
+      "Skewers",
+      "Chutney",
+      "Lemon wedges"
+    ],
+    "category": "Indian",
+    "rating": 4.8,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/Ratatouille.jpg",
+    "name": "Ratatouille",
+    "recipe": "1. In a large pot, heat olive oil over medium heat.\n2. Add onions and garlic, sautéing until soft.\n3. Add bell peppers, zucchini, eggplant, and tomatoes, stirring to combine.\n4. Season with salt, pepper, and herbs de Provence.\n5. Reduce heat to low and simmer until the vegetables are tender and the flavors meld together, about 30 minutes.\n6. Serve hot, garnished with fresh basil.",
+    "cooking_time": "40 Mins",
+    "ingredients": [
+      "1 onion, chopped",
+      "3 cloves garlic, minced",
+      "1 bell pepper, chopped",
+      "1 zucchini, chopped",
+      "1 eggplant, chopped",
+      "4 tomatoes, chopped",
+      "2 tbsp olive oil",
+      "1 tsp herbs de Provence",
+      "Salt and pepper to taste",
+      "Fresh basil leaves"
+    ],
+    "category": "French",
+    "rating": 4.6,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/Pho.jpg",
+    "name": "Pho",
+    "recipe": "Simmer beef or chicken broth with rice noodles, meat, herbs, and bean sprouts.",
+    "cooking_time": "2 hours",
+    "ingredients": ["Beef or chicken broth", "Rice noodles", "Beef or chicken", "Herbs", "Bean sprouts"],
+    "category": "Vietnamese",
+    "rating": 4.9,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/Lasagna.jpeg",
+    "name": "Lasagna",
+    "recipe": "Layer lasagna noodles with meat sauce, ricotta cheese, and mozzarella, bake until bubbly.",
+    "cooking_time": "1 hour",
+    "ingredients": ["Lasagna noodles", "Meat sauce", "Ricotta cheese", "Mozzarella cheese"],
+    "category": "Italian",
+    "rating": 4.7,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/Gyoza.jpg",
+    "name": "Gyoza",
+    "recipe": "Fill dumpling wrappers with seasoned ground pork and vegetables, pan-fry until crispy.",
+    "cooking_time": "30 Mins",
+    "ingredients": ["Dumpling wrappers", "Ground pork", "Vegetables", "Soy sauce"],
+    "category": "Japanese",
+    "rating": 4.6,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/Guacamole.jpg",
+    "name": "Guacamole",
+    "recipe": "Mash avocados, mix with lime juice, onions, tomatoes, cilantro, and salt.",
+    "cooking_time": "15 Mins",
+    "ingredients": ["Avocados", "Lime juice", "Onions", "Tomatoes", "Cilantro", "Salt"],
+    "category": "Mexican",
+    "rating": 4.8,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/ChickenSatay.jpg",
+    "name": "Chicken Satay",
+    "recipe": "Marinate chicken, skewer, grill, serve with peanut sauce.",
+    "cooking_time": "30 Mins",
+    "ingredients": ["Chicken", "Soy sauce", "Spices", "Peanut sauce"],
+    "category": "Asian",
+    "rating": 4.7,
+    "chef": "Chef John"
+  },
+  {
+    "image" : "assets/img/Pancakes.jpg",
+    "name": "Pancakes",
+    "recipe": "Mix flour, eggs, milk, and sugar, cook on a griddle until golden brown.",
+    "cooking_time": "15 Mins",
+    "ingredients": ["Flour", "Eggs", "Milk", "Sugar"],
+    "category": "American",
+    "rating": 4.6,
+    "chef": "Chef John"
+  }
+]
